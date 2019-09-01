@@ -1,3 +1,3 @@
 # hello-world
-Just a hellow world \n
+Just a hellow world 
 Hello every one！
